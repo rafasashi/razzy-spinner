@@ -1,0 +1,12 @@
+{
+    "require": {
+        "icanboogie/inflector": "^1.4",
+		 "fire015/flintstone": "^2.0"
+    },
+	
+	"scripts" : {
+    "post-install-cmd" : [
+       
+    ]
+}
+}
