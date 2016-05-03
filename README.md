@@ -28,4 +28,4 @@ echo $spinned_article;
 ?>
 
 #See Demos for more options and info 
-sponsored by [url=https://playslack.com]Playslack.com[/url]
+sponsored by https://playslack.com
