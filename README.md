@@ -8,7 +8,24 @@ Python
 To install wordnet on centos os :
 yum install wordnet 
 
-To insal wordnet on ubuntu :
+To install wordnet on ubuntu :
 sudo apt-get install wordnet
 
 #Usage:
+first include the autoloader 
+
+<?php 
+include_once __DIR__."/autoload.php";
+
+$spinner = new spinner();
+
+$article_data = "Hello , I am home , lets start now.";
+
+$spinned_article = $spinner->spin($article_data);
+
+echo $spinned_article;
+
+?>
+
+#See Demos for more options and info 
+sponsored by [url=https://playslack.com]Playslack.com[/url]
