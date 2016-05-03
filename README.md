@@ -15,7 +15,7 @@ sudo apt-get install wordnet
 first include the autoloader 
 
 <?php 
-include_once __DIR__."/autoload.php";
+include_once "autoload.php";
 
 $spinner = new spinner();
 
