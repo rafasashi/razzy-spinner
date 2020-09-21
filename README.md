@@ -27,5 +27,5 @@ echo $spinned_article;
 
 ?>
 
-#See Demos for more options and info 
-sponsored by https://playslack.com
+#sponsored by 
+https://recuweb.com
